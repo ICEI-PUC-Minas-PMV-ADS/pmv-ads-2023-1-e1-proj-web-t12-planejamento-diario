@@ -6,7 +6,7 @@
 
 `SEMESTRE` 2023-1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 
 ## Integrantes
 
