@@ -12,7 +12,7 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 
 * Lahis Oliveira De Souza 
 * Rafael Santos Silva
-* Nome completo do aluno 3
+* Alexandre Figueiredo Camargo
 * Nome completo do aluno 4
 
 ## Orientador
