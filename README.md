@@ -13,7 +13,7 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 * Lahis Oliveira De Souza 
 * Rafael Santos Silva
 * Alexandre Figueiredo Camargo
-* Nome completo do aluno 4
+* Renan Mazzilli Dias
 
 ## Orientador
 
