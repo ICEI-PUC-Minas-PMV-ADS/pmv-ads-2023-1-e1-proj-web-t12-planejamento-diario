@@ -28,10 +28,6 @@ o	Objetivo Geral
 Para planejar a vida pessoal e profissional de forma eficaz, é uma ferramenta que permitirá planejar e organizar coisas que não estão datadas.
 Devido à grande demanda que temos no dia-a-dia como trabalhar, estudar, fazer exercícios físicos, cuidar da família, entre outras diversas coisas, nesse sentido essa ferramenta poderá auxiliar na organização das tarefas e lembrar das atividades a serem realizadas no dia e horário corretos. Poderá auxiliar também na conquista de metas diárias tais como se organizar para estudar para uma prova ou alguma outra atividade.
 
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Trabalhos relacionados (soluções que já existem)
 Listar aqui soluções já existentes/aplicativos relacionados
 
