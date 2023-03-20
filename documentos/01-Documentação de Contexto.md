@@ -6,7 +6,7 @@ Por isso, planejar a rotina é fundamental para nos deixar mais dispostos, ativo
  
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto
 
-## Problem
+## Problema
 
 Iniciar um dia sem saber quais são as suas responsabilidades e quanto tempo você tem para realizar cada uma delas, pode ocasionar problemas maiores.
 Algumas pessoas têm planos a médio e longo prazo, mas diariamente não sabem como se organizar de forma que elas avancem nesses objetivos.
@@ -23,15 +23,15 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 
 o	Objetivo Geral
-	Organizar ideias (a escrita ajuda na organização)
-	Anotar e planejar tarefas
-	Funciona como um check list
-	Aumenta a produtividade e disciplina
-	Auxilia na saúde mental
+-	Organizar ideias (a escrita ajuda na organização)
+-	Anotar e planejar tarefas
+-	Funciona como um check list
+-	Aumenta a produtividade e disciplina
+-	Auxilia na saúde mental
 
  •	Objetivos específicos
-o	A criação de um planner para o auxílio no planejamento de metas e objetivos pessoais/profissionais, podendo assim ter na palma da mão as atividades diárias a serem concluídas, tendo todo o seu dia organizado.
-o	O planner irá ajudar a melhorar a visão do usuário quando não está conseguindo se dedicar de forma correta aos objetivos e metas que foram definidas, bem como, os prazos para cumpri-los. 
+-	A criação de um planner para o auxílio no planejamento de metas e objetivos pessoais/profissionais, podendo assim ter na palma da mão as atividades diárias a serem concluídas, tendo todo o seu dia organizado.
+-	O planner irá ajudar a melhorar a visão do usuário quando não está conseguindo se dedicar de forma correta aos objetivos e metas que foram definidas, bem como, os prazos para cumpri-los. 
 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -44,6 +44,9 @@ Devido à grande demanda que temos no dia-a-dia como trabalhar, estudar, fazer e
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
+## Trabalhos relacionados (soluções que já existem)
+Listar aqui soluções já existentes/aplicativos relacionados
 
 ## Público-Alvo
 
