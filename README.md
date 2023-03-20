@@ -14,6 +14,7 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 * Rafael Santos Silva
 * Alexandre Figueiredo Camargo
 * Renan Mazzilli Dias
+* Bárbara de Souza Ribeiro
 
 ## Orientador
 
