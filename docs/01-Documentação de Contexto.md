@@ -33,8 +33,12 @@ Listar aqui soluções já existentes/aplicativos relacionados
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+- Profissionais que desejam obter um maior grau de gerência sobre suas atividades, prazos a serem cumpridos e metas diárias a serem cumpridas 
+para evoluir na carreira
+- Empreendedores que possuem a incubência de gerenciar seu próprio negócio ou freelancers que precisam organizar seus afazeres para satisfazerem as 
+demandas de seus clientes
+- Estudantes universitários que naturalmente precisam organizar seus trabalhos e manter matéria em dia para garantir bons resultados
+- Pais e mães que, além de terem que administrar tarefas domésticas, precisam organizar as atividades de seus filhos
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
