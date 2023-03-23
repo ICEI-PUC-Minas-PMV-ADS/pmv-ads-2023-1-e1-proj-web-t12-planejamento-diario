@@ -10,11 +10,11 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 
 ## Integrantes
 
+* Alexandre Figueiredo Camargo
+* Bárbara de Souza Ribeiro
 * Lahis Oliveira De Souza 
 * Rafael Santos Silva
-* Alexandre Figueiredo Camargo
 * Renan Mazzilli Dias
-* Bárbara de Souza Ribeiro
 * Stefane Crisley dos Anjos
 
 ## Orientador
