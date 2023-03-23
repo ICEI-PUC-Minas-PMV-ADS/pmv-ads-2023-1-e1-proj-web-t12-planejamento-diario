@@ -13,6 +13,7 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 * Alexandre Figueiredo Camargo
 * Bárbara de Souza Ribeiro
 * Lahis Oliveira De Souza 
+* Mayara Priscila Soares da Silva
 * Rafael Santos Silva
 * Renan Mazzilli Dias
 * Stefane Crisley dos Anjos
