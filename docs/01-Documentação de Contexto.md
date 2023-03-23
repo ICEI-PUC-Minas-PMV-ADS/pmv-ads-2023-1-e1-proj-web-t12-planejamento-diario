@@ -25,6 +25,7 @@ Para planejar a vida pessoal e profissional de forma eficaz, é uma ferramenta q
 Devido à grande demanda que temos no dia-a-dia como trabalhar, estudar, fazer exercícios físicos, cuidar da família, entre outras diversas coisas, nesse sentido essa ferramenta poderá auxiliar na organização das tarefas e lembrar das atividades a serem realizadas no dia e horário corretos. Poderá auxiliar também na conquista de metas diárias tais como se organizar para estudar para uma prova ou alguma outra atividade.
 
 ## Trabalhos relacionados (soluções que já existem)
+
 Existem inúmeras aplicações que podem auxiliar no planejamento diário e gestão de tempo, entre elas estão:
 [^1]:<https://trello.com/home>
 [^2]:<https://www.rememberthemilk.com/>
