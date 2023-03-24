@@ -1,7 +1,9 @@
 # Introdução
 
 A maioria de nossas ações diárias são impulsionadas por hábitos que desenvolvemos ao logo do tempo. Com dias corridos e movimentados, temos muitas tarefas que podem nos causar exaustão caso não tenhamos uma rotina que ajude a tornar esse caos da vida cotidiana mais controlável. Ter rituais e rotinas é fundamental para que se possa ter um dia produtivo e equilibrado. Com a definição das suas tarefas diárias, é possível prevenir imprevistos e diminuir o estresse. Além disso, ter um bom planejamento da rotina é uma forma de melhorar a qualidade de vida para aqueles que buscam bem-estar e equilíbrio diário. Ter horários fixos para realizar as tarefas diárias, como dormir, acordar, se alimentar, trabalhar e fazer atividades físicas, é uma forma de evitar momentos de ansiedade e esgotamento. 
+
 Geralmente, sua trajetória profissional, a produtividade diária e o bem-estar dependem de como anda sua rotina. Por isso, planejar a rotina é fundamental para nos deixar mais dispostos, ativos e saudáveis física e mentalmente. Otimizar sua rotina e organizar melhor seu dia são movimentos importantes para manter a saúde mental. 
+
 Deixar todas as tarefas e compromissos da vida em equilíbrio é uma tarefa bastante complicada para a maioria das pessoas. Entretanto, procrastinar e deixar as atividades se acumularem é um hábito que muitos indivíduos possuem e que fazem com que a organização seja perdida. Ao conseguir organizar a vida, as responsabilidades são cumpridas de maneira adequada e, mesmo assim, ainda sobra tempo para ter momentos de lazer ou descanso com a família e amigos. Ademais, a organização pode aumentar sua produtividade e gerar melhores resultados. Quando uma pessoa consegue organizar a vida, ela passa a aproveitar o tempo e cada hora do dia de uma forma mais assertiva e eficiente.
 
 ## Problema
