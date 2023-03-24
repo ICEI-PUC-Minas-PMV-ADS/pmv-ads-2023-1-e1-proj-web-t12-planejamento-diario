@@ -34,10 +34,10 @@ Existem inúmeras aplicações que podem auxiliar no planejamento diário e gest
 [^5]:<https://calendar.google.com/>
 
 
-[^1]Trello - o Trello é uma plataforma de gerenciamento de projetos que ajuda na organização das atividades diárias. É possível criar cartões para cada tarefa, adicioná-las a quadros e listas, definir prazos e atribuir responsáveis.
-[^2]Remember The Milk - o Remember the Milk é um aplicativo de gerenciamento de tarefas que ajuda a organizar a vida pessoal e profissional. O usuário pode criar listas de tarefas, definir prazos e prioridades, e receber lembretes para não esquecer nenhuma atividade.
-[^3]Google Keep - O Google Keep é um aplicativo de notas e lembretes desenvolvido pela Google. Ele permite que os usuários criem e organizem notas de texto, listas, imagens e gravações de voz em um só lugar. É uma ferramenta útil para ajudar a manter ideias, tarefas e lembretes organizados e acessíveis em um só lugar.
-[^5]Google Agenda - o Google Agenda é uma ferramenta de calendário que permite planejar o dia, semana e mês. O usuário pode adicionar eventos, compromissos e lembretes, além de sincronizar com outros aplicativos do Google.
+- [^1]Trello - o Trello é uma plataforma de gerenciamento de projetos que ajuda na organização das atividades diárias. É possível criar cartões para cada - tarefa, adicioná-las a quadros e listas, definir prazos e atribuir responsáveis.
+- [^2]Remember The Milk - o Remember the Milk é um aplicativo de gerenciamento de tarefas que ajuda a organizar a vida pessoal e profissional. O usuário pode criar listas de tarefas, definir prazos e prioridades, e receber lembretes para não esquecer nenhuma atividade.
+- [^3]Google Keep - O Google Keep é um aplicativo de notas e lembretes desenvolvido pela Google. Ele permite que os usuários criem e organizem notas de texto, listas, imagens e gravações de voz em um só lugar. É uma ferramenta útil para ajudar a manter ideias, tarefas e lembretes organizados e acessíveis em um só lugar.
+- [^5]Google Agenda - o Google Agenda é uma ferramenta de calendário que permite planejar o dia, semana e mês. O usuário pode adicionar eventos, compromissos e lembretes, além de sincronizar com outros aplicativos do Google.
 
 ## Público-Alvo
 
