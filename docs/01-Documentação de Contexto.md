@@ -13,7 +13,7 @@ Algumas pessoas têm planos a médio e longo prazo, mas diariamente não sabem c
 
 ## Objetivos
 
-o	Objetivo Geral
+ •	Objetivo Geral
 - Criar uma aplicação web que  ajude uma pessoa a organizar suas tarefas diárias e a disponibilidade e uso do tempo para cada uma delas
 
  •	Objetivos específicos
