@@ -15,7 +15,6 @@ Algumas pessoas têm planos a médio e longo prazo, mas diariamente não sabem c
 
 o	Objetivo Geral
 - Criar uma aplicação web que  ajude uma pessoa a organizar suas tarefas diárias e a disponibilidade e uso do tempo para cada uma delas
--	Organizar ideias (a escrita ajuda na organização)
 
  •	Objetivos específicos
 -	A criação de um planner para o auxílio no planejamento de metas e objetivos pessoais/profissionais, podendo assim ter na palma da mão as atividades diárias a serem concluídas, tendo todo o seu dia organizado.
