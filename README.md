@@ -20,7 +20,7 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos Andre Silveira Kutova
 
 ## Instruções de utilização
 
