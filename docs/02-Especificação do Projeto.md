@@ -2,7 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Diante de um cenário pós pandêmico estamos sempre ocupados e sobrecarregados com nossos afazeres do cotidiano, comumente sem tempo hábil para descanso ou mesmo para cumrprir o que nos é proposto. Diante disso, será desenvolvido como solução da problemática citada, um aplicativo web que irá auxiliar o usuário na organização das tarefas do dia a dia.  
+
+É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
