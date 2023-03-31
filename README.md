@@ -14,9 +14,9 @@ Um Aplicativo pra você conseguir organizar e gerenciar suas tarefas.
 * Bárbara de Souza Ribeiro
 * Lahis Oliveira De Souza 
 * Mayara Priscila Soares da Silva
-* Rafael Santos Silva
+* Rafael Santos Silva 
 * Renan Mazzilli Dias
-* Stefane Crisley dos Anjos
+* Stefane Crisley dos Anjo
 
 ## Orientador
 
