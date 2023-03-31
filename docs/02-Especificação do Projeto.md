@@ -48,8 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário adicione, edite e exclua compromissos e tarefas | ALTA | 
+|RF-002| Permitir que o usuário defina lembretes e notificações para compromissos e tarefas | ALTA |
+|RF-003| Permitir que o usuário defina a prioridade das tarefas e compromissos | ALTA |
+|RF-005| Permitir que o usuário categorize tarefas e compromissos de acordo com diferentes áreas da vida (trabalho, estudos, lazer, etc) | ALTA |
+|RF-006| Sistema de loguin e senha para o usuario poder acessar a agenda de qualquer dispositivo de forma responsiva e com dados sincronizados automaticamente | ALTA |
+|RF-007| Permitir que o usuário integre sua agenda com outros calendários externos | MÉDIA |
+|RF-008| Permitir que o usuário obtenha relatórios e estatísticas sobre seu desempenho e produtividade ao longo do tempo | MÉDIA |
+|RF-009| Permitir que o usuário personalize a interface da aplicação, ajustando cores, fontes e layouts. | BAIXA |
 
 
 ### Requisitos não Funcionais
