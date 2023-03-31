@@ -13,6 +13,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ![João Paulo Persona 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Jo%C3%A3o%20Paulo%20Alves1.png)
 
 
+![Ana Paula Persona 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Persona%202%20imagem%20ok.png)
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
