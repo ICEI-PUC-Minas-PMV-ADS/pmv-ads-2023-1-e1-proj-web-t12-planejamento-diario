@@ -24,6 +24,7 @@ Algumas pessoas têm planos a médio e longo prazo, mas diariamente não sabem c
 
 Para planejar a vida pessoal e profissional de forma eficaz, é uma ferramenta que permitirá planejar e organizar coisas que não estão datadas.
 Devido à grande demanda que temos no dia-a-dia como trabalhar, estudar, fazer exercícios físicos, cuidar da família, entre outras diversas coisas, nesse sentido essa ferramenta poderá auxiliar na organização das tarefas e lembrar das atividades a serem realizadas no dia e horário corretos. Poderá auxiliar também na conquista de metas diárias tais como se organizar para estudar para uma prova ou alguma outra atividade.  Diante disto, especialistas afirmam que algumas pessoas tendem a não saber administrar de maneira adequada suas demandas (Barbosa, 2011). Dessa forma, é importante que o indivíduo consiga criar um planejamento onde o mesmo alcance uma melhor gestão do seu tempo (Estrada, Flores, & Schimith, 2011).
+
 Uma pesquisa realizada na Universidade Concórdia e pela Universidade Laval no Canadá, pelos professores Brad Aeon, Aïda Faber e Alexandra Panaccio, aponta que ao se ter uma boa gestão de horários, pode levar a uma maior satisfação na vida pessoal e profissional.
 
 
