@@ -61,7 +61,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| Deve conter uma arquitetura limpa com clara separação de responsibilidades de cada camada e componente |  ALTA | 
 |RNF-005| Deve conter código limpo para que seja de fácil manutenção |  ALTA | 
 |RNF-006| Deve ser executável em quaisquer plataformas e navegadores | MÉDIA | 
-|RNF-007| Deve ser capaz de surportar múltiplos usuários simmultaneamente | ALTA | 
+|RNF-007| Deve ser capaz de surportar múltiplos usuários simultaneamente | ALTA | 
 |RNF-008| Não deverá expor dados sensíveis de usuários | ALTA |
 |RNF-009| Deverá ser acessível à pessoas com alguma forma de deficiência física | ALTA |
 |RNF-010| O sistema deverá ter sua interface desenvolvida com HTML e CSS | ALTA |
