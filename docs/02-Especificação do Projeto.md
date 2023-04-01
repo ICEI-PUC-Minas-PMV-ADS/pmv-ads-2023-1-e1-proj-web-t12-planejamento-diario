@@ -64,6 +64,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| Deve ser capaz de surportar múltiplos usuários simmultaneamente | ALTA | 
 |RNF-008| Não deverá expor dados sensíveis de usuários | ALTA |
 |RNF-009| Deverá ser acessível à pessoas com alguma forma de deficiência física | ALTA |
+|RNF-010| O sistema deverá ter sua interface desenvolvida com HTML e CSS | ALTA |
+|RNF-011| O sistema deverá ser desenvolvido utilizando a linguagem de programação javascript | ALTA |
 
 
 ## Restrições
