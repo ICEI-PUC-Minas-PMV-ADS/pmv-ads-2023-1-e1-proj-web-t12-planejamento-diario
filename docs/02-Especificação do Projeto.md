@@ -55,23 +55,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
+|RNF-003| Deve estar disponível 24h por dia |  ALTA | 
+|RNF-004| Deve conter uma arquitetura limpa com clara separação de responsibilidades de cada camada e componente |  ALTA | 
+|RNF-005| Deve conter código limpo para que seja de fácil manutenção |  ALTA | 
+|RNF-006| Deve ser executável em quaisquer plataformas e navegadores | MÉDIA | 
+|RNF-007| Deve ser capaz de surportar múltiplos usuários simmultaneamente | ALTA | 
+|RNF-008| Não deverá expor dados sensíveis de usuários | ALTA |
+|RNF-009| Deverá ser acessível à pessoas com alguma forma de deficiência física | ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
