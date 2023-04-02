@@ -4,9 +4,11 @@
 
 Diante de um cenário pós pandêmico estamos sempre ocupados e sobrecarregados com nossos afazeres do cotidiano, comumente sem tempo hábil para descanso ou mesmo para cumrprir o que nos é proposto. Diante disso, será desenvolvido como solução da problemática citada, um aplicativo web que irá auxiliar o usuário na organização das tarefas do dia a dia.  
 
-É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O seguinte projeto usou como artefatos e ferramentas para especificação
+a criação de personas, história de usuário e os requisitos arquiteturais e restrições. Sendo os requisitos classificados de acordo com a prioridade.
+Neste documento foram criadas duas personas, João Paulo Alves e Ana Paula Maria. 
+Abaixo estão as histórias de usuário, mostrando as necessidades e os motivos que levaram os mesmos a aderirem ao aplicativo.
+Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não funcionais e as restrições.
 
 ## Personas
 
