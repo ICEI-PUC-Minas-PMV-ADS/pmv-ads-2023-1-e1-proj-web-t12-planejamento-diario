@@ -19,10 +19,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                                       |
+|----------------------------|--------------------------------------------|--------------------------------------------------------------|
+|João Paulo 30 anos Professor|Laser, exercício físico, conciliar tarefas  |Relacao saudavel em familia, saude, finalizar dentro do prazo |   |
+|Ana Paula 37 anos Estudante |Planejar o dia, disciplina, exercicio fisico|Otimizar o tempo, ter controle das tarefas, ter mais saude    |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
