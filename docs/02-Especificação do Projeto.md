@@ -12,8 +12,13 @@ Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não fun
 
 ## Personas
 
-![João Paulo Persona 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Jo%C3%A3o%20Paulo%20Alves1.png)
-
++ ### João Paulo Alves
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/joao.png" width="400">   |_30 anos, casado e com 2 filhos, mora no interior paulista com sua família_   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Professor de História
+|**História** | <p>João cresceu em uma família monoparental com sua mãe e irmã mais nova. Seu pai os abandonou quando ele tinha apenas 5 anos de idade. Sua mãe trabalhava muito para sustentar a família e muitas vezes não estava em casa. João teve que cuidar de sua irmã mais nova e aprender a se virar sozinho desde muito jovem.<br>Apesar das dificuldades ele se formou na faculdade com um diploma em história e agora é professor de história em uma escola secundária.<br>João é casado e tem dois filhos. Ele é um pai amoroso e dedicado que quer dar aos seus filhos tudo o que ele nunca teve quando era criança.</p>
+|**Frustrações/Problemas** |Hoje aos 30 anos João tem uma vida mais estável em uma família mais estruturada, porém tem dificuldades em conciliar seu emprego de professor com as outras partes de sua vida que são muito importantes para ele, como tirar um tempo em seus dias para ficar com sua família e ter uma relação saudável com seus filhos, realizar exercícios físicos e ter um tempo para o lazer.
+|**Metas** | <p>- Organizar melhor o seu tempo de trabalho em casa e lazer<br> - Passar mais tempo com a família<br> - Realizar mais exercícios físicos</p>
 
 ![Ana Paula Persona 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Persona%202%20imagem%20ok.png)
 
