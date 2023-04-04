@@ -20,7 +20,12 @@ Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não fun
 |**Frustrações/Problemas** |Hoje aos 30 anos João tem uma vida mais estável em uma família mais estruturada, porém tem dificuldades em conciliar seu emprego de professor com as outras partes de sua vida que são muito importantes para ele, como tirar um tempo em seus dias para ficar com sua família e ter uma relação saudável com seus filhos, realizar exercícios físicos e ter um tempo para o lazer.
 |**Metas** | <p>- Organizar melhor o seu tempo de trabalho em casa e lazer<br> - Passar mais tempo com a família<br> - Realizar mais exercícios físicos</p>
 
-![Ana Paula Persona 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Persona%202%20imagem%20ok.png)
++ ### Ana Paula Maria
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Ana%20paula.jpeg" width="400">   |_37 anos, casada_   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | <p>Auxiliar Administrativo<br> Cursando Ciências Contábeis<br> Iniciará uma pós graduação</p>
+|**Frustrações/Problemas** |<p>Não tenho planejado bem o desenvolvimento das tarefas, muitas vezes não tenho conseguido cumprir com todas.<br>Acredito que seja por falta de disciplina ou  não estou gerindo bem o meu tempo.<br>Tento reservar uma hora de segunda a quinta para atividade física, mas nem  sempre consigo de fato</p>
+|**Metas** | <p>- Conseguir manter uma rotina diária de atividade física<br> - Conseguir manter uma rotina diária de estudos da graduação<br> - Ter tempo para as tarefas de casa</p>
 
 ## Histórias de Usuários
 
