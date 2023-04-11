@@ -37,8 +37,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |João Paulo 30 anos Professor|Laser, exercício físico, conciliar tarefas  |Relacao saudavel em familia, saude, finalizar dentro do prazo |   |
 |Ana Paula 37 anos Estudante |Planejar o dia, disciplina, exercicio fisico|Otimizar o tempo, ter controle das tarefas, ter mais saude    |
 
-|João Paulo 30 anos Professor|	|Lazer, exercício físico, conciliar tarefas|	|Relação saudável em família, saúde, finalizar dentro do prazo|
-|Ana Paula 37 anos Estudante|	|Planejar o dia, disciplina, exercício físico|	|Otimizar o tempo, ter controle das tarefas, ter mais saúde|
+|João Paulo 30 anos Professor	|Lazer, exercício físico, conciliar tarefas	|Relação saudável em família, saúde, finalizar dentro do prazo|
+|Ana Paula 37 anos Estudante	|Planejar o dia, disciplina, exercício físico	|Otimizar o tempo, ter controle das tarefas, ter mais saúde|
 
 
 ## Requisitos
