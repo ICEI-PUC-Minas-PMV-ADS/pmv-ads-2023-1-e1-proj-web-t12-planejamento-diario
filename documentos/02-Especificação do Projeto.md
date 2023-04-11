@@ -34,7 +34,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                                       |
 |----------------------------|--------------------------------------------|--------------------------------------------------------------|
-|João Paulo 30 anos Professor|Laser, exercício físico, conciliar tarefas  |Relacao saudavel em familia, saude, finalizar dentro do prazo |   |
+|João Paulo 30 anos Professor|Lazer, exercício físico, conciliar tarefas  |Relação saudável em familia, saúde, finalizar dentro do prazo |   |
 |Ana Paula 37 anos Estudante |Planejar o dia, disciplina, exercicio fisico|Otimizar o tempo, ter controle das tarefas, ter mais saude    |
 
 
