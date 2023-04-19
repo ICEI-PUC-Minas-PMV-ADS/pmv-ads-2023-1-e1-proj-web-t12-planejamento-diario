@@ -33,6 +33,22 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 Como evidências, temos o documento "Documentação de contexto" e o documento "Especificação do projeto".
 
+**SPRINT 2**
+
+1. PLANEJAMENTO
+
+...
+
+2. EXECUÇÃO
+
+...
+
+3. EVIDÊNCIAS
+
+...
+
+
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
