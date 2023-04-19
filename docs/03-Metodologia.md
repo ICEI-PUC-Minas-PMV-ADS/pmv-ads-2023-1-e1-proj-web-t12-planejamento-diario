@@ -16,6 +16,19 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ### Processo
 
+**PRODUCT BACKLOG**
+
+
+**SPRINT 1**
+
+1. PLANEJAMENTO
+
+Nesta etapa, planejamos fazer a redação da introdução, a definição do problema, a lista de objetivos, relacionar algumas aplicações semelhantes à nossa, justificar a importância de resolvermos esse problema. Também ficou planejado fazer a definição do público alvo.
+
+2. EXECUÇÃO
+
+3. EVIDÊNCIAS
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
