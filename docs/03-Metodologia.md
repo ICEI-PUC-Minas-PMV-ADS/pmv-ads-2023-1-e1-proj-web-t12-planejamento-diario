@@ -10,9 +10,9 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ### Divisão de Papéis
  
-Scrum Master: Rafael Santos Silva
-Product Owner:
-Equipe de Desenvolvimento: 
+- **Scrum Master**: Rafael Santos Silva
+- **Product Owner**: 
+- **Equipe de Desenvolvimento**:
 
 ### Processo
 
