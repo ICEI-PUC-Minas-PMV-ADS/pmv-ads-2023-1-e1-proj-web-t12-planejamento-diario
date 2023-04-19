@@ -18,6 +18,10 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 **PRODUCT BACKLOG**
 
+- Documentação de contexto
+- Especificação do projeto
+- Metodologia
+- ...
 
 **SPRINT 1**
 
