@@ -32,10 +32,10 @@ Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não fun
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                                       |
-|----------------------------|--------------------------------------------|--------------------------------------------------------------|
-|João Paulo 30 anos Professor|Lazer, exercício físico, conciliar tarefas  |Relação saudável em familia, saúde, finalizar dentro do prazo |   |
-|Ana Paula 37 anos Estudante |Planejar o dia, disciplina, exercicio fisico|Otimizar o tempo, ter controle das tarefas, ter mais saude    |
+|EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                     |PARA ... `MOTIVO/VALOR`                                       |
+|----------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
+|João Paulo 30 anos Professor| Conciliar as tarefas de professor adcionando lembretes |Conseguir finalizar dentro do prazo e ter mais tempo livre com a familia|
+|Ana Paula 37 anos Estudante | Ter controle das tarefas do dia garantindo a disciplina|Otimizar o tempo para nao esquecer do que e necessario fazer            |
 
 
 ## Requisitos
