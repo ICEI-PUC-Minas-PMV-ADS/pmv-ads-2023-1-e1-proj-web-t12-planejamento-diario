@@ -21,7 +21,7 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 - Documentação de contexto
 - Especificação do projeto
 - Metodologia
-- ...
+- Projeto de Interface
 
 **SPRINT 1**
 
