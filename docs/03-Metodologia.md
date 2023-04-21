@@ -37,6 +37,9 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 Como evidências, temos o documento "Documentação de contexto" e o documento "Especificação do projeto".
 
+![Projeto](https://user-images.githubusercontent.com/48370523/233673099-ada7728d-e294-462a-a66a-305266948585.PNG)
+
+
 **SPRINT 2**
 
 1. PLANEJAMENTO
