@@ -31,7 +31,7 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 2. EXECUÇÃO
 
-...
+Nessa etapa as funções foram divididas entre as a equipe de desenvolvimento.
 
 3. EVIDÊNCIAS
 
