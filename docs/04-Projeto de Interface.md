@@ -14,7 +14,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe]![image](https://user-images.githubusercontent.com/128171907/234132879-09fe0e64-e443-49e7-9629-961285b8fd71.png)
+![Exemplo de Wireframe](https://user-images.githubusercontent.com/128171907/234132879-09fe0e64-e443-49e7-9629-961285b8fd71.png)
 
 
 
