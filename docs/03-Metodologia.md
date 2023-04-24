@@ -31,7 +31,7 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 2. EXECUÇÃO
 
-Nessa etapa as funções foram divididas entre as a equipe de desenvolvimento.
+Para realizar as atividades conforme o planejado
 
 3. EVIDÊNCIAS
 
@@ -44,15 +44,16 @@ Como evidências, temos o documento "Documentação de contexto" e o documento "
 
 1. PLANEJAMENTO
 
-...
+Para a definição do design de interface, foi estabelecido a necessidade de divisão de papéis entre os membros. Posteriormente, planejou-se a confecção das telas de 
+login, de preenchimento de dados pessoais, de visualização de tarefas ao longo da semana e de telas que permitem o usuário programar alarmes para cada tarefa bem como
+consultar a lista de tarefas para um dia específico, resultando em um total de 7 telas junto com a definição do fluxo de usuário entre elas.
 
 2. EXECUÇÃO
 
-...
+Para a execução dessas tarefas, utilizou-se o board do GitHub para organização e acompanhamento, figma para o desenvolvimento dos designs das telas envolvidas e lucid chart para a concepção do fluxo de usuário. A principal ferramenta de comunicação foi o Discord.
 
 3. EVIDÊNCIAS
 
-...
 
 
 
