@@ -31,7 +31,7 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 2. EXECUÇÃO
 
-Para realizar as atividades conforme o planejado
+Nessa etapa as funções foram divididas entre as a equipe de desenvolvimento para realizar as atividades conforme o planejado.
 
 3. EVIDÊNCIAS
 
