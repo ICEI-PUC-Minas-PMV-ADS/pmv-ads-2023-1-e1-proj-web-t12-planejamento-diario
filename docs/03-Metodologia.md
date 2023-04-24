@@ -18,10 +18,16 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 **PRODUCT BACKLOG**
 
-- Documentação de contexto
-- Especificação do projeto
-- Metodologia
-- Projeto de Interface
+- Documentação de contexto;
+- Especificação do projeto;
+- Metodologia;
+- Projeto de Interface;
+- Template padrão do Site;
+- Progamação de Funcionalidades;
+- Plano de Testes de Software;
+- Registro de Testes de Software;
+- Apresentação do Projeto;
+- Referências.
 
 **SPRINT 1**
 
