@@ -60,16 +60,7 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 3. EVIDÊNCIAS
 
-
-
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+![image](https://user-images.githubusercontent.com/98063900/234138703-773dadaa-8258-4d9b-9063-52e7bf2b4631.png)
 
 ### Ferramentas
 
