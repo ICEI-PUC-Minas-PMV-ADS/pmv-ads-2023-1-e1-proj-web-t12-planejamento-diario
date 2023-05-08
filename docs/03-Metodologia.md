@@ -37,7 +37,7 @@ Nesta etapa, planejamos fazer a redação da introdução, a definição do prob
 
 2. EXECUÇÃO
 
-Nessa etapa as funções foram divididas entre as a equipe de desenvolvimento para realizar as atividades conforme o planejado.
+Nessa etapa as funções foram divididas entre as a equipe de desenvolvimento para realizar as atividades da etapa 1, e foi feito a Documentação de contexto e Especificação do projeto.
 
 3. EVIDÊNCIAS
 
@@ -50,12 +50,11 @@ Como evidências, temos o documento "Documentação de contexto" e o documento "
 
 1. PLANEJAMENTO
 
-Para a definição do design de interface, foi estabelecido a necessidade de divisão de papéis entre os membros. Posteriormente, planejou-se a confecção das telas de 
-login, de preenchimento de dados pessoais, de visualização de tarefas ao longo da semana e de telas que permitem o usuário programar alarmes para cada tarefa bem como
-consultar a lista de tarefas para um dia específico, resultando em um total de 7 telas junto com a definição do fluxo de usuário entre elas.
+Foi planejado o dia e a hora para a reunião no discord entre a equipe de desenvolvimento para fazer a sprint 2 que continha a parte de Metodologia e Projeto de interface.
 
 2. EXECUÇÃO
 
+Como planejado a equipe se reuniu no discord, foi estabelecido a divisão de papéis entre os membros. E com isso foi feita confecção das telas de login, de preenchimento de dados pessoais, de visualização de tarefas ao longo da semana e de telas que permitem o usuário programar alarmes para cada tarefa bem como consultar a lista de tarefas para um dia específico, resultando em um total de 7 telas junto com a definição do fluxo de usuário entre elas.
 Para a execução dessas tarefas, utilizou-se o board do GitHub para organização e acompanhamento, figma para o desenvolvimento dos designs das telas envolvidas e lucid chart para a concepção do fluxo de usuário. A principal ferramenta de comunicação foi o Discord.
 
 3. EVIDÊNCIAS
@@ -64,8 +63,21 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 ### Ferramentas
 
-- Github
-- Git
-- VS Code
-- Discord
-- WhatsApp
+**Ferramentas de desenvolvimento**
+
+- [VSCode](https://code.visualstudio.com)
+- [Figma](https://www.figma.com)
+- [Lucidchart](https://www.lucidchart.com)
+
+O VSCode foi utilizado para escrever a documentação, o figma para criar o Wireframe do aplicativo e o Lucidchart para criar a represetação do fluxo de usuário.
+
+
+**Ferramentas de comunicação e documentação**
+
+- [Discord](https://discord.com/)
+- [WhatsApp](https://whatsapp.com/)
+- [Github](https://github.com/)
+- [Git](https://git-scm.com)
+
+O whatsapp é uma ferramenta de comunicação rapida para organizar e planejar as atividades da equipe de desenvolvimento, que durante o processo utilizou o discord que oferece uma serviço melhor de comunicação em tempo real.
+O Github foi a plataforma utilizada para fazer a documentação do projeto e o git foi a solução para fazer os envios de atualização para o github.
