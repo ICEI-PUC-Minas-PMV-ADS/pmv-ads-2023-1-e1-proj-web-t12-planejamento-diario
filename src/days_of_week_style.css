@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+}
+
+#monday_to_thursday {
+    display: block;
+    height: 50%;
+}
+
+#friday_to_monday {
+    display: block;
+    height: 50%;
+    margin-top: 16px;
+}
+
+.weekday {
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    background-color: rgb(11, 127, 194);
+    border-radius: 10px;
+    position: relative;
+}
+
+.weekday:hover {
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.weekday h1 {
+    font-family: monospace;
+    color: aliceblue;
+    text-align: start;
+    margin: 16px;
+}
+
+.weekday p {
+    font-family: monospace;
+    color: aliceblue;
+    margin: 16px;
+    position: absolute;
+    bottom: 0;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
