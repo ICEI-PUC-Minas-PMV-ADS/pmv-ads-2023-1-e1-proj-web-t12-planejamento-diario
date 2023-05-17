@@ -61,6 +61,18 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 ![image](https://user-images.githubusercontent.com/98063900/234138703-773dadaa-8258-4d9b-9063-52e7bf2b4631.png)
 
+**SPRINT 3**
+
+1. PLANEJAMENTO
+
+Para a entrega da sprint 3 com a parte "6-Template padrão do site" e "7-Programação de funcionalidades", a equipe se planejou via whatsapp para distribuir tarefas e iniciar o desenvolvimento.  
+
+2. EXECUÇÃO
+
+
+3. EVIDÊNCIAS
+
+
 ### Ferramentas
 
 **Ferramentas de desenvolvimento**
