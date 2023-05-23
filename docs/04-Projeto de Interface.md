@@ -14,7 +14,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe] (![Telas -](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/128171907/0b90734a-57c0-4b42-bb92-3472321d43f5)
+![Exemplo de Wireframe]_ ![Telas -](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/128171907/c6829f27-f6bc-4638-902b-d975db4398ff)
+
 
 
 
