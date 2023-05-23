@@ -140,3 +140,23 @@ button[type="submit"] {
     border-width: 0px;
     padding: 8px;
 }
+
+#btn-signup {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    border-radius: 8px;
+    border-width: 0px;
+    padding: 8px;
+}
+
+#already_registered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    border-radius: 8px;
+    border-width: 0px;
+    padding: 8px;
+}
