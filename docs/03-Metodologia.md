@@ -61,6 +61,7 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 ![image](https://user-images.githubusercontent.com/98063900/234138703-773dadaa-8258-4d9b-9063-52e7bf2b4631.png)
 
+
 **SPRINT 3**
 
 1. PLANEJAMENTO
@@ -69,8 +70,14 @@ Para a entrega da sprint 3 com a parte "6-Template padrão do site" e "7-Program
 
 2. EXECUÇÃO
 
+A equipe de desenvolvimento foi fazendo as tarefas de acordo com seus conhecimentos, teve reuniões pra acertar detalhes e terminar o desenvolvimento da etapa.
 
 3. EVIDÊNCIAS
+ 
+![discord](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/9f19d5eb-f1ee-4b34-9c5b-c178e3c2fdb8)
+
+![projetoEtapa3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/416f2c6e-8676-4d13-a02d-4b65b5c722ee)
+
 
 
 ### Ferramentas
