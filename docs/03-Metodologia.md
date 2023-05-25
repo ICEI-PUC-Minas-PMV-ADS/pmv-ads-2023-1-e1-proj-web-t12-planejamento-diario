@@ -91,6 +91,13 @@ A equipe de desenvolvimento foi fazendo as tarefas de acordo com seus conhecimen
 O VSCode foi utilizado para escrever a documentação, o figma para criar o Wireframe do aplicativo e o Lucidchart para criar a represetação do fluxo de usuário.
 
 
+**Desenvolvimento da Pagina do Projeto**
+
+- HTML
+- CSS
+- JavaScript
+
+
 **Ferramentas de comunicação e documentação**
 
 - [Discord](https://discord.com/)
