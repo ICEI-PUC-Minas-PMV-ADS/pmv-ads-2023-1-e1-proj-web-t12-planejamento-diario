@@ -10,25 +10,19 @@ body {
 }
 
 section {
-    padding: 16px;
-    border-radius: 10px;
     height: 100%;
+    flex-flow: row;
+    flex-wrap: wrap;
+    display: flex;
 }
 
 header {
     background-color: rgb(94, 201, 236);
-    border-radius: 10px;
 }
 
 article {
     height: 200px;
-    width: 200px;
-    clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 80% 0);
     padding: 16px;
-    display: inline-block;
-    margin-top: 16px;
-    margin-right: 8px;
-    margin-left: 8px;
 }
 
 article:hover {
@@ -37,30 +31,39 @@ article:hover {
 
 #task_seven_am {
     background-color: green;
+    width: 20%;
 }
 
 #task_ten_am {
     background-color: red;
+    width: 20%;
 }
 
 #task_mid_day {
     background-color: purple;
+    width: 20%;
 }
 
 #three_pm {
     background-color: blue;
+    width: 20%;
+    flex-grow: 2;
 }
 
 #six_pm {
     background-color: rgb(21, 212, 171);
+    width: 20%;
 }
 
 #eight_pm {
     background-color: coral;
+    width: 20%;
 }
 
 #ten_pm {
     background-color: rgb(180, 212, 38);
+    width: 20%;
+    flex-grow: 2;
 }
 
 h2 {
