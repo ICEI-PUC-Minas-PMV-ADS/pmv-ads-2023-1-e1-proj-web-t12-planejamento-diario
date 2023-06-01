@@ -58,3 +58,12 @@ a {
     float: right;
     margin-right: 30px;
 }
+
+@media (max-width:700px) {
+    .weekday {
+        width: 100%;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
