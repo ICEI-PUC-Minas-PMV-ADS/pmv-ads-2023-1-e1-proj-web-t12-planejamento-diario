@@ -4,12 +4,12 @@ body {
 
 #monday_to_thursday {
     display: block;
-    height: 50%;
+    height: 40%;
 }
 
 #friday_to_monday {
     display: block;
-    height: 50%;
+    height: 40%;
     margin-top: 16px;
 }
 
@@ -66,4 +66,50 @@ a {
         margin-left: auto;
         margin-right: auto;
     }
+}
+/* Abaixo estou tentando estilizar a header */
+
+header {
+
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    background-color: rgb(11, 127, 194);
+    border-radius: 10px;
+    position: relative;
+}
+
+.logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.logo h1 {
+    margin-left: 50px;
+    font-size: 20px;
+    color: #333;
+}
+
+nav ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    
+    margin-left: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
 }
