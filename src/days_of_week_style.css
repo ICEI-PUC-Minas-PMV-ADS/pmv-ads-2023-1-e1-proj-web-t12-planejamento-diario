@@ -136,3 +136,14 @@ nav ul li a {
     text-decoration: none;
     color: #333;
 }
+
+@media (max-width:600px) {
+    .logo {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template: "tasksicon"
+                          "daysmenu";
+        grid-gap: 5px 0px;
+    }
+}
