@@ -14,7 +14,17 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/128171907/115b292e-e7b6-4184-8044-a8afdb1656c6)
+![image]![Sem título (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/128171907/fadff097-90b7-41a1-981e-73edbdd2b3ac)
+ Legenda das telas:
+ Tela 1 - Tela inicial
+ Tela 2 - Tela de cadastro/login
+ Tela 3 - Tela do calendário semanal
+ Tela 4 - Tela do dia e dos horários
+ Tela 5 - Tela com as tarefas 
+ Tela 6 - Tela de ativação do alarme
+ Tela 7 - Tela para confirmar alarme
+ Tela 8 - Tela de confirmação do alarme
+ 
 
 
 
