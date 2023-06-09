@@ -12,7 +12,7 @@ Requisitos para realização dos testes de software:
 |:-------- |:--------------:| 
 | Objetivo do teste | Verificar se a partir do fornecimento das credencias corretas, o login é realizado com sucesso |
 | Pré-condições de testes | Acessar a tela de login, clicar na opção "Cadastre-se" e registrar-se usando as credenciais com usuário "usuario.teste" e senha "1234" |
-| Passos | Preencher o formulário de login com as credenciais cadastradas, clicar em "Entrar" e verificar se é apresentado um dialog de sucesso e se o redirecionamento à tela de dias da semana ocorre |
+| Passos | Preencher o formulário de login com as credenciais cadastradas, clicar em "Entrar" e verificar se o redirecionamento à tela de dias da semana ocorre |
 | Resultado| ( a preencher) |
 
 | Caso de teste 2 | Login de usuário com erro |
