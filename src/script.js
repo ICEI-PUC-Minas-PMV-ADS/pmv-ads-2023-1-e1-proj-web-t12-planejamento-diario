@@ -21,15 +21,21 @@ function signup() {
     clearFields();
     
   }
-  const form = document.getElementById('form-login')
-  if(form !== null){
-    form.addEventListener('submit', login)
+
+  const loginButton = document.getElementById('submit-button')
+  loginButton.onclick = () => login()
+
+  const registerButton = document.getElementById('register-button')
+  registerButton.onclick = () => redirectToRegisterPage()
+
+  function redirectToRegisterPage() {
+    window.location.href="cadastro.html"
   }
   
-  function login(event) {
-    event.preventDefault()
-    var username = event.target.username.value;
-    var password = event.target.password.value;
+  function login() {
+
+    var username = document.getElementById('login').value;
+    var password = document.getElementById('password').value;
   
     // Verificar se os campos estão preenchidos
     if (username.length === 0 || password.length === 0) {
@@ -42,7 +48,7 @@ function signup() {
 
     // Verificar se o usuário e senha estão corretos
     if (username === user.username && password === user.password) {
-      console.log('Login realizado com sucesso.');
+      alert('Login realizado com sucesso.');
   
       // Redirecionar para a página days_of_week.html
       window.location.href="days_of_week.html";
