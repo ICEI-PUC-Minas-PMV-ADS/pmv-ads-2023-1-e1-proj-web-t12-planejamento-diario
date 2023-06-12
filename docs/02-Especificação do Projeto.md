@@ -6,7 +6,8 @@ Diante de um cenário pós pandêmico estamos sempre ocupados e sobrecarregados 
 
 O seguinte projeto usou como artefatos e ferramentas para especificação
 a criação de personas, história de usuário e os requisitos arquiteturais e restrições. Sendo os requisitos classificados de acordo com a prioridade.
-Neste documento foram criadas duas personas, João Paulo Alves e Ana Paula Maria. 
+Neste documento foram criadas algumas personas,
+delas são: João Paulo Alves e Ana Flávia Monteiro. 
 Abaixo estão as histórias de usuário, mostrando as necessidades e os motivos que levaram os mesmos a aderirem ao aplicativo.
 Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não funcionais e as restrições.
 
@@ -20,7 +21,7 @@ Em seguida temos uma tabela mostrando todos os resquisitos,funcionais e não fun
 |**Frustrações/Problemas** |Hoje aos 30 anos João tem uma vida mais estável em uma família mais estruturada, porém tem dificuldades em conciliar seu emprego de professor com as outras partes de sua vida que são muito importantes para ele, como tirar um tempo em seus dias para ficar com sua família e ter uma relação saudável com seus filhos, realizar exercícios físicos e ter um tempo para o lazer.
 |**Metas** | <p>- Organizar melhor o seu tempo de trabalho em casa e lazer<br> - Passar mais tempo com a família<br> - Realizar mais exercícios físicos</p>
 
-+ ### Ana Paula Maria
++ ### Ana Flávia Monteiro
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/blob/main/docs/img/Ana%20paula.jpeg" width="400">   |_37 anos, casada_   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | <p>Auxiliar Administrativo<br> Cursando Ciências Contábeis<br> Iniciará uma pós graduação</p>
@@ -34,12 +35,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                     |PARA ... `MOTIVO/VALOR`                                       |
 |----------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
-|João Paulo, 30 anos, Professor| Definir compromissos diferentes por cores | Separar as tarefas pessoal e profissional |
-|Ana Paula, 37 anos, Estudante | Fazer registro da entrega dos trabalhos da faculdade   | Otimizar o tempo e não perder datas  |
-|Pedro Pascal, 48 anos, Sindico | Agenda que regista compromissos que se repete todo mês | Não precisar ficar remarcando na agenda todo mês minhas reuniões |
-|Wagner Moura, 46 anos, Atleta | Alarme com lembrete a cada 3 horas | Lembrar de comer no horario certo de acordo com a dieta |
-|Cleo pires, 40 anos, Telemarketing | Aplicativo de tarefas que salve meus dados em uma conta | Poder verificar agenda no computador de casa e no celular no trabalho|
-|Paolla Oliveira, 41 anos, Cantora | Agenda com opção de compartilhar para outras pessoas | Para meus fãns poder ver minha agenda de shows |
+|João Paulo, 30 anos, Professor| Categorizar compromissos diferentes por cores de acordo com as áreas | Separar as tarefas entre pessoal e profissional |
+|Ana Flavia, 24 anos, Estudante | Adicionar registros das entregas dos trabalhos da faculdade   | Otimizar o tempo e não perder datas  |
+|Pedro Pascal, 48 anos, Síndico | Agendar compromissos com frenquência mensal | Não precisar ficar remarcando na agenda todo mês minhas reuniões |
+|Júnior Bandeira, 46 anos, Atleta | Receber notificações a cada 3 horas | Lembrar de comer no horário certo, de acordo com a dieta |
+|Juliana Nicácio, 40 anos, Telemarketing | visualizar através de dispositivos web os compromissos registrados na minha conta | Conseguir cumprir as metas profissionais e ganhar comissão |
 |
 
 ## Requisitos
@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Sistema de loguin e senha para o usuario poder acessar a agenda de qualquer dispositivo de forma responsiva e com dados sincronizados automaticamente | ALTA |
+|RF-001| Sistema de login e senha para o usuario poder acessar a agenda de qualquer dispositivo de forma responsiva e com dados sincronizados automaticamente | ALTA |
 |RF-002| Permitir que o usuário adicione, edite e exclua compromissos e tarefas | ALTA | 
 |RF-003| Permitir que o usuário defina lembretes e notificações para compromissos e tarefas | ALTA |
 |RF-004| Permitir que o usuário defina a prioridade das tarefas e compromissos | ALTA |
