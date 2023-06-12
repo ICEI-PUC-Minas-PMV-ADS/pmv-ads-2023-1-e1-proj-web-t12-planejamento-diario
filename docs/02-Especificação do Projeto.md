@@ -36,7 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                     |PARA ... `MOTIVO/VALOR`                                       |
 |----------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
 |João Paulo, 30 anos, Professor| Categorizar compromissos diferentes por cores de acordo com as áreas | Separar as tarefas entre pessoal e profissional |
-|Ana Flavia, 24 anos, Estudante | Adicionar registros das entregas dos trabalhos da faculdade   | Otimizar o tempo e não perder datas  |
+|Ana Flavia, 37 anos, Estudante | Adicionar registros das entregas dos trabalhos da faculdade   | Otimizar o tempo e não perder datas  |
 |Pedro Pascal, 48 anos, Síndico | Agendar compromissos com frenquência mensal | Não precisar ficar remarcando na agenda todo mês minhas reuniões |
 |Júnior Bandeira, 46 anos, Atleta | Receber notificações a cada 3 horas | Lembrar de comer no horário certo, de acordo com a dieta |
 |Juliana Nicácio, 40 anos, Telemarketing | visualizar através de dispositivos web os compromissos registrados na minha conta | Conseguir cumprir as metas profissionais e ganhar comissão |
