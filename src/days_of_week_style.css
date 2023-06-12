@@ -67,10 +67,10 @@ a {
         margin-right: auto;
     }
 }
-/* Abaixo estou tentando estilizar a header */
+/* Abaixo estou tentando estilizar a header 
 
 header {
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 16px;
     margin-top: 16px;
     margin-left: 16px;
@@ -147,3 +147,59 @@ nav ul li a {
         grid-gap: 5px 0px;
     }
 }
+*/
+header {
+    background-color: rgb(11, 127, 194);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-radius: 10px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+
+}
+
+
+
+.logo img {
+    width: 80px;
+    height: 80px;
+}
+
+.logo h1 {
+    margin-left: 10px;
+    font-size: 20px;
+    color: #333;
+}
+
+.logo span {
+    /* Estilos para o span dentro da div.logo */
+
+    justify-content: center;
+    align-items: center;
+    font-family: monospace, sans-serif; 
+    font-size: 40px; 
+    font-weight: bold; 
+  }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: 30px;
+}
+
+nav ul li {
+    margin-left: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
