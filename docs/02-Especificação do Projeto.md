@@ -40,7 +40,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Pedro Pascal, 48 anos, Síndico | Agendar compromissos com frenquência mensal | Não precisar ficar remarcando na agenda todo mês minhas reuniões |
 |Júnior Bandeira, 46 anos, Atleta | Receber notificações a cada 3 horas | Lembrar de comer no horário certo, de acordo com a dieta |
 |Juliana Nicácio, 40 anos, Telemarketing | visualizar através de dispositivos web os compromissos registrados na minha conta | Conseguir cumprir as metas profissionais e ganhar comissão |
-|
+
 
 ## Requisitos
 
