@@ -1,6 +1,6 @@
 .registration {
     display: block;
-    margin-top: 1%;
+    margin-top: 10%;
     background-color: lightskyblue;
     width: 300px;
     margin-left: auto;
@@ -8,6 +8,10 @@
     border-radius: 10px;
     padding-bottom: 8px;
     padding-top: 8px;
+}
+
+.main_body {
+    background-color: lightblue;
 }
 
 .registration img {
