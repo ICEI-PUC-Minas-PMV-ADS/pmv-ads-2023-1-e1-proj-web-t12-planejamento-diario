@@ -40,7 +40,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Wagner Moura, 46 anos, Atleta | Alarme com lembrete a cada 3 horas | Lembrar de comer no horario certo de acordo com a dieta |
 |Cleo pires, 40 anos, Telemarketing | Aplicativo de tarefas que salve meus dados em uma conta | Poder verificar agenda no computador de casa e no celular no trabalho|
 |Paolla Oliveira, 41 anos, Cantora | Agenda com opção de compartilhar para outras pessoas | Para meus fãns poder ver minha agenda de shows |
-|
+
 
 ## Requisitos
 
