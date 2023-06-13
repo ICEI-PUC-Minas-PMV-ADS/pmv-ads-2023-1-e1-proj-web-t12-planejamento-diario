@@ -52,6 +52,7 @@ Como evidências, temos o documento "Documentação de contexto" e o documento "
 
 Foi planejado o dia e a hora para a reunião no discord entre a equipe de desenvolvimento para fazer a sprint 2 que continha a parte de Metodologia e Projeto de interface.
 
+
 2. EXECUÇÃO
 
 Como planejado a equipe se reuniu no discord, foi estabelecido a divisão de papéis entre os membros. E com isso foi feita confecção das telas de login, de preenchimento de dados pessoais, de visualização de tarefas ao longo da semana e de telas que permitem o usuário programar alarmes para cada tarefa bem como consultar a lista de tarefas para um dia específico, resultando em um total de 7 telas junto com a definição do fluxo de usuário entre elas.
@@ -68,11 +69,14 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 Para a entrega da sprint 3 com a parte "6-Template padrão do site" e "7-Programação de funcionalidades", a equipe se planejou via whatsapp para distribuir tarefas e iniciar o desenvolvimento.
 
+
 2. EXECUÇÃO
 
-Sobre o template do site, tivemos dificuldades em criar uma tela inicial boa e responsiva, então criamos uma base Beta e vamos aprimorando de acordo com que vamos aprendendo de UX/UI.
 Escolhemos a funcionalidade "RF-01 Sistema de loguin e Cadastro".
+
 Para implementar essa funcionalidade, tivemos reuniões para entender o conhecimento de cada desenvolvedor, levou um tempo para pesquisar e estudar, mas conseguimos implementar essa funcionalidade.
+
+Sobre o template do site, tivemos dificuldades em criar uma tela inicial boa e responsiva, então criamos uma base Beta e vamos aprimorando de acordo com que vamos aprendendo de UX/UI.
 
 
 3. EVIDÊNCIAS
@@ -87,12 +91,14 @@ Para implementar essa funcionalidade, tivemos reuniões para entender o conhecim
 1. PLANEJAMENTO
  
 Para entrega da Sprint 4 com a parte "08-Plano de Testes de Software" e "09-Registro de Testes de Software" a equipe manteve a comunicação pelo whatsapp e fazendo reuniões pra combinar as tarefas e entregas, e tambem utilizando as issues disponiveis no kanban para essa etapa.
+
 Também planejamos progredir na implementação de outros requisitos funcionais.
+ 
  
 2. EXECUÇÃO
 
-O Desenvolvedor Alexandre Figueiredo realizou os testes, passou para a equipe de desenvolvimento e fizemos o registro.
-Finalizando os testes e registro do Requisito Funcional "01 Sistema de Loguin e Cadastro".
+O Desenvolvedor Alexandre Figueiredo realizou os testes, passou para a equipe de desenvolvimento e fizemos o registro. Assim finalizando os testes e registro do Requisito Funcional "01 Sistema de Loguin e Cadastro".
+
 A equipe de desenvolvimento teve dificuldades em implementar outras funcionalidades e ta trabalhando na aparencia da Tela 3 - Calendário semanal e na implementação do requisito "RF-02 Permitir que o usuário adicione, edite e exclua tarefas".
 
 
