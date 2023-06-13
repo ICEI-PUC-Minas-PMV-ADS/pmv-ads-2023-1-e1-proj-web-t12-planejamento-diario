@@ -87,10 +87,12 @@ Para implementar essa funcionalidade, tivemos reuniões para entender o conhecim
 1. PLANEJAMENTO
  
 Para entrega da Sprint 4 com a parte "08-Plano de Testes de Software" e "09-Registro de Testes de Software" a equipe manteve a comunicação pelo whatsapp e fazendo reuniões pra combinar as tarefas e entregas, e tambem utilizando as issues disponiveis no kanban para essa etapa.
+Também planejamos progredir na implementação de outros requisitos funcionais.
  
 2. EXECUÇÃO
 
-O Desenvolvedor Alexandre Figueiredo realizou os testes passou para a equipe e fizemos os registros finalizando os testes do Requisito Funcional "01 Sistema de Loguin e Cadastro".
+O Desenvolvedor Alexandre Figueiredo realizou os testes, passou para a equipe de desenvolvimento e fizemos o registro.
+Finalizando os testes e registro do Requisito Funcional "01 Sistema de Loguin e Cadastro".
 A equipe de desenvolvimento teve dificuldades em implementar outras funcionalidades e ta trabalhando na aparencia da Tela 3 - Calendário semanal e na implementação do requisito "RF-02 Permitir que o usuário adicione, edite e exclua tarefas".
 
 
