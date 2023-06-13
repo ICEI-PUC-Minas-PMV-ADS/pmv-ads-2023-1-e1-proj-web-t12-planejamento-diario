@@ -34,12 +34,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE`                     |PARA ... `MOTIVO/VALOR`                                       |
 |----------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
-|João Paulo, 30 anos, Professor| Definir compromissos diferentes por cores | Separar as tarefas pessoal e profissional |
-|Ana Paula, 37 anos, Estudante | Fazer registro da entrega dos trabalhos da faculdade   | Otimizar o tempo e não perder datas  |
-|Pedro Pascal, 48 anos, Sindico | Agenda que regista compromissos que se repete todo mês | Não precisar ficar remarcando na agenda todo mês minhas reuniões |
-|Wagner Moura, 46 anos, Atleta | Alarme com lembrete a cada 3 horas | Lembrar de comer no horario certo de acordo com a dieta |
-|Cleo pires, 40 anos, Telemarketing | Aplicativo de tarefas que salve meus dados em uma conta | Poder verificar agenda no computador de casa e no celular no trabalho|
-|Paolla Oliveira, 41 anos, Cantora | Agenda com opção de compartilhar para outras pessoas | Para meus fãns poder ver minha agenda de shows |
+|João Paulo, 30 anos, Professor| Classificar compromissos na sua agenda| Separar as tarefas pessoal e profissional |
+|Ana Paula, 37 anos, Estudante | Fazer registro da entrega dos trabalhos da faculdade | Otimizar o tempo e não perder datas  |
+|Pedro Pascal, 48 anos, Sindico | Montar cronograma mensal| Para não precisar remarcar compromissos que se repetem todo mês |
+|Wagner Moura, 46 anos, Atleta | Se lembrar de comer na hora certa | Evitar perder a hora da dieta |
+|Cleo Pires, 40 anos, Telemarketing | Aplicativo de tarefas que pode ser acessado em qualquer lugar | Poder verificar agenda no computador de casa e no celular no trabalho|
 
 
 ## Requisitos
