@@ -66,11 +66,14 @@ Para a execução dessas tarefas, utilizou-se o board do GitHub para organizaç�
 
 1. PLANEJAMENTO
 
-Para a entrega da sprint 3 com a parte "6-Template padrão do site" e "7-Programação de funcionalidades", a equipe se planejou via whatsapp para distribuir tarefas e iniciar o desenvolvimento.  
+Para a entrega da sprint 3 com a parte "6-Template padrão do site" e "7-Programação de funcionalidades", a equipe se planejou via whatsapp para distribuir tarefas e iniciar o desenvolvimento.
 
 2. EXECUÇÃO
 
-A equipe de desenvolvimento foi fazendo as tarefas de acordo com seus conhecimentos, teve reuniões pra acertar detalhes e terminar o desenvolvimento da etapa.
+Sobre o template do site, tivemos dificuldades em criar uma tela inicial boa e responsiva, então criamos uma base Beta e vamos aprimorando de acordo com que vamos aprendendo de UX/UI.
+Escolhemos a funcionalidade "RF-01 Sistema de loguin e Cadastro".
+Para implementar essa funcionalidade, tivemos reuniões para entender o conhecimento de cada desenvolvedor, levou um tempo para pesquisar e estudar, mas conseguimos implementar essa funcionalidade.
+
 
 3. EVIDÊNCIAS
  
@@ -83,8 +86,12 @@ A equipe de desenvolvimento foi fazendo as tarefas de acordo com seus conhecimen
 
 1. PLANEJAMENTO
  
+Para entrega da Sprint 4 com a parte "08-Plano de Testes de Software" e "09-Registro de Testes de Software" a equipe manteve a comunicação pelo whatsapp e fazendo reuniões pra combinar as tarefas e entregas, e tambem utilizando as issues disponiveis no kanban para essa etapa.
  
 2. EXECUÇÃO
+
+O Desenvolvedor Alexandre Figueiredo realizou os testes passou para a equipe e fizemos os registros finalizando os testes do Requisito Funcional "01 Sistema de Loguin e Cadastro".
+A equipe de desenvolvimento teve dificuldades em implementar outras funcionalidades e ta trabalhando na aparencia da Tela 3 - Calendário semanal e na implementação do requisito "RF-02 Permitir que o usuário adicione, edite e exclua tarefas".
 
 
 3. EVIDÊNCIAS
