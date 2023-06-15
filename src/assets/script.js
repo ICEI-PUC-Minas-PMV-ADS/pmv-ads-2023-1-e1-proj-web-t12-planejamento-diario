@@ -8,7 +8,7 @@ function signup() {
       alert('Por favor, preencha todos os campos.');
       return;
     }
-    window.location.href="index.html"
+    window.location.href="../index.html"
   
     // Salvar o usuário e senha no localStorage
     var user ={
@@ -29,7 +29,7 @@ function signup() {
   registerButton.onclick = () => redirectToRegisterPage()
 
   function redirectToRegisterPage() {
-    window.location.href="cadastro.html"
+    window.location.href="pages/cadastro.html"
   }
   
   function login() {
@@ -51,7 +51,7 @@ function signup() {
       alert('Login realizado com sucesso.');
   
       // Redirecionar para a página days_of_week.html
-      window.location.href="days_of_week.html";
+      window.location.href="pages/days_of_week.html";
     } else {
       alert('Usuário ou senha incorretos.');
     }

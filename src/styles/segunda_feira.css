@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(27,191,202);
+    padding: 0%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+  h1 {
+    text-align: center;
+  }
+  
+  #task-container {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 120px;
+  }
+  
+  #task-input {
+    flex: 1;
+    padding: 5px;
+  }
+  
+  #task-time {
+    margin-left: 10px;
+    padding: 5px;
+  }
+  
+  #add-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 10px;
+  }
+  
+  /*li.completed {
+    text-decoration: line-through;
+  }*/
+  
+  li span {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  li button {
+    padding: 3px 5px;
+  }
+#task-list {
+  padding: 0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 23.7px;
+  color: rgb(253, 253, 253);  
+  margin-top: 10px;
+  margin-left: 612px;
+  margin-right: 727.7px;
+  justify-content: center;
+}
