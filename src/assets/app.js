@@ -36,7 +36,7 @@ function completeTask(index) {
   var taskList = JSON.parse(localStorage.getItem("tasks"));
 
   // Marca a tarefa como concluída
-  taskList[index].completed = true;
+  taskList[index].completed = !taskList[index].completed;
 
   // Salva a lista atualizada no localStorage
   localStorage.setItem("tasks", JSON.stringify(taskList));
@@ -81,45 +81,68 @@ function displayTasks() {
   // Percorre cada tarefa na lista
   taskList.forEach(function(task, index) {
     // Cria um novo elemento de lista
-    var listItem = document.createElement("li");
+    var listItem = document.createElement("div");
+    listItem.className = 'card col-md-12 mt-4';
+
+
+    var cardBody = document.createElement("div");
+    cardBody.className = "card-body";
 
     // Define a classe do elemento de lista com base na conclusão da tarefa
-    if (task.completed) {
-      listItem.classList.add("completed");
-    }
+   // if (task.completed) {
+   //   cardBody.className = "card-body";
+    //}
 
     // Cria um elemento de parágrafo para exibir o nome da tarefa
-    var taskName = document.createElement("span");
+    var taskName = document.createElement("h5");
+    //taskName.className = 'card-title';
     taskName.textContent = task.name;
 
+    if(task.completed) {
+      taskName.className = 'card-title completed'
+    } else {
+      taskName.className ='card-title'
+    }
+
     // Cria um elemento de parágrafo para exibir o horário da tarefa
-    var taskTime = document.createElement("span");
+    var taskTime = document.createElement("p");
+    //taskTime.className = 'card-text';
     taskTime.textContent = task.time;
+
+    if(task.completed) {
+      taskTime.className = 'card-text float-left completed'
+    } else {
+      taskTime.className ='card-text float-left'
+    }
 
     // Cria um botão para marcar a tarefa como concluída
     var completeButton = document.createElement("button");
+    completeButton.className = 'btn btn-primary float-right mr-2';
     completeButton.textContent = "Concluir";
-    completeButton.addEventListener("click", function() {
+    completeButton.addEventListener('click', function() {
       completeTask(index);
     });
 
     // Cria um botão para excluir a tarefa
     var deleteButton = document.createElement("button");
     deleteButton.textContent = "Excluir";
+    deleteButton.className = 'btn btn-primary float-right';
     deleteButton.addEventListener("click", function() {
       deleteTask(index);
     });
 
     // Adiciona os elementos à lista
-    listItem.appendChild(taskName);
-    listItem.appendChild(taskTime);
-    listItem.appendChild(completeButton);
-    listItem.appendChild(deleteButton);
+    cardBody.appendChild(taskName);
+    cardBody.appendChild(taskTime);
+    cardBody.appendChild(completeButton);
+    cardBody.appendChild(deleteButton);
+    listItem.appendChild(cardBody);
 
     // Adiciona o elemento de lista à lista no HTML
     taskListElement.appendChild(listItem);
   });
 }
+
 
 // Chama a função displayTasks para exibir as tarefas ao carregar a página
 displayTasks();
@@ -149,88 +172,6 @@ addButton.addEventListener("click", addTask);
         taskTime.value = "";
         displayTasks();
       }
-    }
-
-    // Função para marcar uma tarefa como concluída
-    function completeTask(event) {
-      var completeButton = event.target;
-      var listItem = completeButton.parentNode;
-      var taskName = listItem.querySelector("span.task-name").textContent;
-
-      var taskList = JSON.parse(localStorage.getItem("tasks"));
-
-      for (var i = 0; i < taskList.length; i++) {
-        if (taskList[i].name === taskName) {
-          taskList[i].completed = !taskList[i].completed;
-          break;
-        }
-      }
-
-      localStorage.setItem("tasks", JSON.stringify(taskList));
-      displayTasks();
-    }
-
-    // Função para excluir uma tarefa
-    function deleteTask(event) {
-      var deleteButton = event.target;
-      var listItem = deleteButton.parentNode;
-      var taskName = listItem.querySelector("span.task-name").textContent;
-
-      var taskList = JSON.parse(localStorage.getItem("tasks"));
-
-      for (var i = 0; i < taskList.length; i++) {
-        if (taskList[i].name === taskName) {
-          taskList.splice(i, 1);
-          break;
-        }
-      }
-
-      localStorage.setItem("tasks", JSON.stringify(taskList));
-      displayTasks();
-    }
-
-    // Função para exibir as tarefas na lista
-    function displayTasks() {
-      var taskList = JSON.parse(localStorage.getItem("tasks")) || [];
-
-      taskList.sort(function(a, b) {
-        var timeA = new Date("1970/01/01 " + a.time);
-        var timeB = new Date("1970/01/01 " + b.time);
-        return timeA - timeB;
-      });
-
-      var taskListElement = document.getElementById("task-list");
-      taskListElement.innerHTML = "";
-
-      taskList.forEach(function(task) {
-        var listItem = document.createElement("li");
-
-        if (task.completed) {
-          listItem.classList.add("completed");
-        }
-
-        var taskName = document.createElement("span");
-        taskName.classList.add("task-name");
-        taskName.textContent = task.name;
-
-        var taskTime = document.createElement("span");
-        taskTime.textContent = task.time;
-
-        var completeButton = document.createElement("button");
-        completeButton.textContent = "Concluir";
-        completeButton.addEventListener("click", completeTask);
-
-        var deleteButton = document.createElement("button");
-        deleteButton.textContent = "Excluir";
-        deleteButton.addEventListener("click", deleteTask);
-
-        listItem.appendChild(taskTime);
-        listItem.appendChild(taskName);
-        listItem.appendChild(completeButton);
-        listItem.appendChild(deleteButton);
-
-        taskListElement.appendChild(listItem);
-      });
     }
 
     displayTasks();
