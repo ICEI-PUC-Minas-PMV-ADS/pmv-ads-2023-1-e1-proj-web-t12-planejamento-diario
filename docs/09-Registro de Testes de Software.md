@@ -24,3 +24,27 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/98063900/2230bca6-c3b0-48c9-81bd-8faf16510f91)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/98063900/86175518-b2f6-452b-bc15-1eb68785e3eb)
+
+# Caso de teste 4 - Adicionar tarefa 
+
+### Resultado: Após preencher o nome, horário e clicar "Adicionar" a tarefa foi salva.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/6d606743-1713-4295-8425-31f8ef1a3dac)
+
+# Caso de teste 5 - Concluir tarefa
+
+### Resultado: Ao marcar tarefa como conclída, ela foi marcada no titulo e horário.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/eb04f4cc-8cef-47ef-aa87-6405246876c6)
+
+
+# Caso de teste 6 - Excluir tarefa
+
+### Resultado: Após clicar em excluir, a tarefa selecionada saiu da lista. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/2316b15b-44bb-4600-8015-2f5b84f24b9d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/026d6b23-689f-43d8-a7f0-8451d0d16e9e)
+
+
+
+
