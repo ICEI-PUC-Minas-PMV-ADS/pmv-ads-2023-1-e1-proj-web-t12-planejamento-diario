@@ -99,12 +99,13 @@ Também planejamos progredir na implementação de outros requisitos funcionais.
 
 O Desenvolvedor Alexandre Figueiredo realizou os testes, passou para a equipe de desenvolvimento e fizemos o registro. Assim finalizando os testes e registro do Requisito Funcional "01 Sistema de Loguin e Cadastro".
 
-A equipe de desenvolvimento teve dificuldades em implementar outras funcionalidades e ta trabalhando na aparencia da Tela 3 - Calendário semanal e na implementação do requisito "RF-02 Permitir que o usuário adicione, edite e exclua tarefas".
+A equipe de desenvolvimento teve dificuldades em implementar outras funcionalidades e está trabalhando na aparencia da Tela 3 - Calendário semanal e na implementação do requisito "RF-02 Permitir que o usuário adicione, edite e exclua tarefas".
 
+A equipe de desenvolvimento criou a funcionalidade de Gerenciamento de tarefas, realizou e registrou os testes de software.
 
 3. EVIDÊNCIAS
 
-![ProjetoEtapa4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/a3b9f0d7-5645-4ddd-aae2-b3828208108b)
+![ProjetoEtapa4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/50bdcef8-99ab-4881-ae80-6cbe9019b963)
 
 
 
