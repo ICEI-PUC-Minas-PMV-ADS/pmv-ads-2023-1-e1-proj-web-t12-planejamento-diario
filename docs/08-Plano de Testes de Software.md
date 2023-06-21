@@ -31,3 +31,11 @@ Requisitos para realização dos testes de software:
 | Passos | Clicar em "Cadastre-se", preencher o formulário usando as credenciais com usuário "usuario.teste" e senha "1234" e verificar se o dialog de sucesso aparece e se o redirecionamento à tela de Login ocorre |
 | Resultado| Foi apresentado o dialog de sucesso e o redirecionamento à tela de login ocorreu |
 
+## Plano de 
+
+| Caso de teste 3 | Cadastro de usuário |
+|:-------- |:--------------:| 
+| Objetivo do teste | Verificar se a partir do fornecimento de credenciais, o cadastro é realizado com suceso |
+| Pré-condições de testes | Acessar a tela de login|
+| Passos | Clicar em "Cadastre-se", preencher o formulário usando as credenciais com usuário "usuario.teste" e senha "1234" e verificar se o dialog de sucesso aparece e se o redirecionamento à tela de Login ocorre |
+| Resultado| Foi apresentado o dialog de sucesso e o redirecionamento à tela de login ocorreu |
