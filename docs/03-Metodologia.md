@@ -108,6 +108,17 @@ A equipe de desenvolvimento criou a funcionalidade de Gerenciamento de tarefas, 
 ![ProjetoEtapa4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/48370523/50bdcef8-99ab-4881-ae80-6cbe9019b963)
 
 
+**SPRINT 5**
+
+1. PLANEJAMENTO
+
+
+2. EXECUÇÃO
+
+
+3. EVIDÊNCIAS
+
+
 
 ### Ferramentas
 
