@@ -112,12 +112,15 @@ A equipe de desenvolvimento criou a funcionalidade de Gerenciamento de tarefas, 
 
 1. PLANEJAMENTO
 
+Para a entrega de Sprint 5 com a parte "10-Apresentação do projeto" a equipe decidiu que um membro fosse encarrega de desenvolver um slide relacionado.
 
-2. EXECUÇÃO
+3. EXECUÇÃO
 
+O Desenvolvedor Alexandre Figueiredo realizou o slide de apresentação. O restante da equipe reviosou e validou o que estava sendo construído ao longo do desenvolvimento.
 
-3. EVIDÊNCIAS
+4. EVIDÊNCIAS
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/98063900/e2475497-10a8-4150-86e1-f5bfeeb14524)
 
 
 ### Ferramentas
