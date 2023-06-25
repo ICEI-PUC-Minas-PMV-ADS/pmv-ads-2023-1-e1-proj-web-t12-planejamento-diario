@@ -118,6 +118,8 @@ Para a entrega de Sprint 5 com a parte "10-Apresentação do projeto" a equipe d
 
 O Desenvolvedor Alexandre Figueiredo realizou o slide de apresentação. O restante da equipe reviosou e validou o que estava sendo construído ao longo do desenvolvimento.
 
+Para o desenvolvimento, foi utilizado o Google Slides.
+
 4. EVIDÊNCIAS
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-planejamento-diario/assets/98063900/e2475497-10a8-4150-86e1-f5bfeeb14524)
